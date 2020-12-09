@@ -1,0 +1,63 @@
+.header{
+	background-image: url('../image/bgheader.png');
+	background-color: #701aab;
+	width: 100%;
+	z-index: 1000;
+	position: fixed;
+}
+
+.content{
+	padding-top: 100px;
+	/*background-color: #fff5ee;*/
+	background-image: url('asset/img/bgcontent.jpg');
+	background-size: cover;
+}
+
+./*tombol{
+	margin-left: 10px;
+	margin-right: 5px;
+}
+
+/*.violet{
+	background-color: #bf008f;
+	color: #f8f8ff;*/
+
+
+/*.violet:hover{
+	background-color: white;
+}*/
+.footer{
+	/*background-image: url('asset/img/footer.png');*/
+	background-color: #ff5533;
+	padding-top: 40px; 
+	color: #f0ffff;
+	margin-top: 100px;
+	height: 100px;
+	width: 99%;
+	background-size: cover;
+}
+
+/*.blues{
+	background-color: #ba55dd;
+}
+
+.gambar{
+	width: 40px;
+	height: 40px;
+}
+
+.auth{
+	background-color: #980bbb;
+}
+
+.bg-login-image{
+	background-image: url('../image/login-in.png');
+}*/
+
+.str{
+	background: yellow;
+	padding: 50px;
+	margin: 600px;
+	width: 400px;
+	height: 500px;
+}
